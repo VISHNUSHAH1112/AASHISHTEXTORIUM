@@ -15,7 +15,7 @@ export default function Footer({ scrollToBrand }) {
             <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-3 gap-8">
                 {/* About */}
                 <div className="text-center md:text-left">
-                    <h3 className="text-xl font-bold mb-4">Textorium</h3>
+                    <h3 className="text-xl font-bold mb-4">Aashish-Textorium</h3>
                     <p className="text-gray-300 text-sm sm:text-base">
                         Premium fabrics for everyday elegance. Quality you can trust, comfort you deserve.
                     </p>
@@ -49,7 +49,7 @@ export default function Footer({ scrollToBrand }) {
                 {/* Contact Info */}
                 <div className="text-center md:text-left">
                     <h3 className="text-xl font-bold mb-4">Contact Us</h3>
-                    <p className="text-gray-300 text-sm sm:text-base">Email: support@textorium.com</p>
+                    <p className="text-gray-300 text-sm sm:text-base">Email: Aashish@textorium.com</p>
                     <p className="text-gray-300 text-sm sm:text-base">Phone: +91 98765 43210</p>
                 </div>
             </div>
