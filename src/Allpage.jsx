@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import SB from "../src/assets/SB.webp";
 import RB from "../src/assets/RD.jpg";
-import OB from "../src/assets/Ob.jpg";
+import OCM from "../src/assets/OCM.jpg";
 import Footer from "./Footer";
 
 // brands array tumhara pehle wala hi use kar lo
@@ -380,7 +380,7 @@ const brands = [
 
 ];
 
-const bannerImages = [{ img: SB }, { img: RB }, { img: OB }];
+const bannerImages = [{ img: SB }, { img: RB }, { img: OCM }];
 
 export default function FabricDisplay() {
     const [expanded, setExpanded] = useState({});
